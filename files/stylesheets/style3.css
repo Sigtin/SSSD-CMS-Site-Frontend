@@ -1,0 +1,41 @@
+body {
+    background: #4C5454;
+    font-family: 'Courier New', Courier, monospace;
+    color: #CAD2C5;
+    margin: 0;
+}
+
+nav {
+    overflow: hidden;
+    background-color: #84A98C;
+    display: flex;
+}
+
+nav a {
+    color: #FFFFFF;
+}
+
+.link {
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 16pt;
+}
+
+nav a:hover {
+    color: #CAD2C5;
+    background-color: #4C5454;
+}
+
+.main_body {
+    margin: 0;
+    padding: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+.main_content {
+    padding: 20px 300px;
+}

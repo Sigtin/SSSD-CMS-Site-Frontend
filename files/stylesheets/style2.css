@@ -1,0 +1,37 @@
+body {
+    background: #88958D;
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    overflow: hidden;
+    background-color: #606D5D;
+    display: flex;
+    border-radius: 10px;
+    padding: 10px, 20px;
+}
+
+nav a {
+    color: #BC9CB0;
+}
+
+.link {
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 16pt;
+}
+
+nav a:hover {
+    color: #D3DDD7;
+}
+
+.main_body {
+    margin: 0;
+    padding: 10px;
+}
+
+.header {
+    text-align: center;
+}
